@@ -1,2 +1,2 @@
-# borno-literary-society
-Official website of BLS
+Borno Literary Society org
+
